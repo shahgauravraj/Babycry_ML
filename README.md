@@ -27,9 +27,9 @@ Accuracy scores of all the three models will be used for assessment.
 Accuracy scores of the three models will be displayed. Moreover, an audio file can be used to describe the use of the models.
 
 ## Roles
-Abhishek Kushwaha – KNN implementation.
-Khush Dassani – SVM implementation.
-Gaurav Raj Shah – CNN implementation.
+- Abhishek Kushwaha – KNN implementation.
+- Khush Dassani – SVM implementation.
+- Gaurav Raj Shah – CNN implementation.
 
 ## Tentative Schedule
 The schedule is a table of dates and tasks that you plan to complete.
